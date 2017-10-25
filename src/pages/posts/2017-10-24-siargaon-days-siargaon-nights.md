@@ -8,4 +8,4 @@ The child tribe has two modes, happy or sad. They either laugh, sing, skip aroun
 
 ![Ocean at night](/static/uploads/IMG_6418.JPG)
 
-The guard will be fired, he carries a torch and ensures the property is safe at night. He is just a kid too, mostly sleeping in his hammock by the wooden gates. But he has been drinking, and another boy will become the guard. He does not look happy about his ‘promotion’ it means separation form the tribe. Ramil sighs deeply, torch in hand he is their mini-chief of the tribe and wants to sleep with the girls who are told roughly but with a tenderness to 'go to bed now'.
+The guard will be fired, he carries a torch and ensures the property is safe at night. He is just a kid too, mostly sleeping in his hammock by the wooden gates. But he has been drinking, and another boy will become the guard. He does not look happy about his ‘promotion’ it means separation n the tribe. Ramil sighs deeply, torch in hand he is their mini-chief of the tribe and wants to sleep with the girls who are told roughly but with a tenderness to 'go to bed now'.
