@@ -11,21 +11,25 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
     const pages = []
     const blogPost = path.resolve("./src/templates/blog-post.js")
     resolve(
-      graphql(
-        `
-      {
-        allMarkdownRemark(limit: 1000) {
-          edges {
-            node {
-              frontmatter {
-                path
+      graphql(`
+        {
+          allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }, limit: 20) {
+            edges {
+              node {
+                excerpt(pruneLength: 400)
+                html
+                id
+                frontmatter {
+                  templateKey
+                  path
+                  date
+                  title
+                }
               }
             }
           }
         }
-      }
-    `
-      ).then(result => {
+      `).then(result => {
         if (result.errors) {
           console.log(result.errors)
           reject(result.errors)
